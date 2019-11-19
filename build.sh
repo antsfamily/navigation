@@ -1,4 +1,9 @@
+mv _site ../temp
+
 bundle exec jekyll build --trace --incremental
 
-cp -rf ./Tutorials _site/
-cp -rf ./Projects _site/
+mv ../temp ./
+
+cp -rf _site/* temp/
+rm -rf _site
+mv temp _site
