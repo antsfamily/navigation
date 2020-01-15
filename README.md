@@ -1,16 +1,17 @@
 # Hello, the future
 
+[Principles of Synthetic Aperture Radar Imaging_ A System Simulation Approach-2015](./Principles of Synthetic Aperture Radar Imaging_ A System Simulation Approach-2015.pdf)
 
 [homepage](https://iridescent.ink/) | [Email](zhiliu.mind@gmail.com)
 
 ## Links
 
 
-**Mailbox** | [stu.xidian.edu.cn](http://stumail.xidian.edu.cn/)
+**Contact** | [stu.xidian.edu.cn](http://stumail.xidian.edu.cn/) | [ORCID](https://orcid.org/0000-0003-4781-7125)
 
-**Tutorials** | [matlab academy](https://matlabacademy.mathworks.com/) |
+**Tutorials** |  [aitrace](Tutorials/aitrace/html/index.html "A Tutorial On Artificial Intelligence") | [HowToMakeDocs](Tutorials/HowToMakeDocs/html/index.html "A Brief Tutorial On Making Beauty Documents") | [matlab academy](https://matlabacademy.mathworks.com/)
 
-**Knowledge** | [Wikipedia](http://wikipedia.moesalih.com/) | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/)
+**Knowledge** | [Wikipedia](http://wikipedia.moesalih.com/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/)
 
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) |
    | [Nature](https://www.nature.com/)
@@ -18,6 +19,10 @@
    | [ScienceDirect](https://www.sciencedirect.com/) | [arXiv.org](https://arxiv.org/)
 
 **Community** | [Kesci](https://www.kesci.com/) |
+
+**Paper Publication** | [IEEE Access](https://mc.manuscriptcentral.com/ieee-access) 
+
+**Other** | [time](https://time.is/)
 
 ## Conference
 
@@ -45,21 +50,20 @@
         - [NeurIPS 2019 Materials](https://github.com/extreme-assistant/nips2019)
 
 
-## Tutorials
+## My Tutorials
 
+**local** | [aitrace](Tutorials/aitrace/html/index.html "A Tutorial On Artificial Intelligence") | [HowToMakeDocs](Tutorials/HowToMakeDocs/html/index.html "A Brief Tutorial On Making Beauty Documents")
 
-- **aitrace**: A Tutorial On Artificial Intelligence
-	- [local](Tutorials/aitrace/html/index.html)
-	- [remote](https://iridescent.ink/aitrace/index.html)
-- **HowToMakeDocs**: A Brief Tutorial On Making Beauty Documents
-	- [local](Tutorials/HowToMakeDocs/html/index.html)
-	- [remote](https://iridescent.ink/HowToMakeDocs/index.html)
+**remote** | [aitrace](https://iridescent.ink/aitrace/index.html "A Tutorial On Artificial Intelligence") | [HowToMakeDocs](https://iridescent.ink/HowToMakeDocs/index.html "A Brief Tutorial On Making Beauty Documents")
 
 
 ## My Projects
 
+**local** | [improc](Projects/improc/html/index.html "A Python Toolkit for image processing") | [iprs3.0](Projects/iprs3.0/html/index.html "Intelligent Processing platform of Radar Signal") | [pysparse](Projects/pysparse/html/index.html "A Python Toolkit for Sparse Signal Processing") | [torchtool](Projects/torchtool/html/index.html "Torch tools") | [tifffile](Projects/tifffile/html/index.html)
 
-- **improc**: A Python Toolkit for image processing
+**remote** | [improc](https://iridescent.ink/improc/index.html "A Python Toolkit for image processing") | [iprs3.0](https://iridescent.ink/iprs3.0/index.html "Intelligent Processing platform of Radar Signal") | [pysparse](https://iridescent.ink/pysparse/index.html "A Python Toolkit for Sparse Signal Processing") | [torchtool](https://iridescent.ink/torchtool/index.html "Torch tools") | [tifffile](https://iridescent.ink/tifffile/index.html)
+
+<!-- - **improc**: A Python Toolkit for image processing
 	- [local](Projects/improc/html/index.html)
 	- [remote](https://iridescent.ink/improc/index.html)
 - **iprs3.0**: Intelligent Processing platform of Radar Signal
@@ -73,11 +77,15 @@
 	- [remote](https://iridescent.ink/torchtool/index.html)
 - **tifffile**:
 	- [local](Projects/tifffile/html/index.html)
-	- [remote](https://iridescent.ink/tifffile/index.html)
+	- [remote](https://iridescent.ink/tifffile/index.html) -->
 
 ## Others
 
-- **pytorch**:
+**local** | [pytorch en](Projects/pytorch/html/index.html "pytorch docs") | [torchvision en](Projects/vision/html/index.html "torchvision docs")  | [numba](Projects/numba/html/index.html "A High Performance Python Compiler") | 
+
+**remote** | [pytorch en](https://pytorch.org/docs/stable/index.html "pytorch docs") [pytorch zh](https://pytorch-cn.readthedocs.io/zh/latest/ "pytorch docs") | [torchvision en](https://pytorch.org/docs/master/torchvision/ "torchvision docs") | [numba](http://numba.pydata.org/ "A High Performance Python Compiler") |
+
+<!-- - **pytorch**:
 	- [local en](Projects/pytorch/html/index.html)
 
 	- [remote en](https://pytorch.org/docs/stable/index.html)
@@ -87,4 +95,17 @@
 - **torchvision**:
 	- [local en](Projects/vision/html/index.html)
 	- [remote en](https://pytorch.org/docs/master/torchvision/)
+
+ -->
+
+
+
+## Collections
+
+- [Library](./Library.md)
+
+
+
+
+
 
