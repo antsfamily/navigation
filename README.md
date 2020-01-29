@@ -11,7 +11,7 @@
 
 **Tutorials** |  [aitrace](Tutorials/aitrace/html/index.html "A Tutorial On Artificial Intelligence") | [HowToMakeDocs](Tutorials/HowToMakeDocs/html/index.html "A Brief Tutorial On Making Beauty Documents") | [matlab academy](https://matlabacademy.mathworks.com/)
 
-**Knowledge** | [Wikipedia](http://wikipedia.moesalih.com/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/)
+**Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/)
 
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) |
    | [Nature](https://www.nature.com/)
