@@ -1,6 +1,5 @@
 # Hello, the future
 
-[Principles of Synthetic Aperture Radar Imaging_ A System Simulation Approach-2015](./Principles of Synthetic Aperture Radar Imaging_ A System Simulation Approach-2015.pdf)
 
 [lian](https://iridescent.ink/) | [iridescent](https://iridescent.ink/iridescent) | [Gmail](zhiliu.mind@gmail.com) | [EDU](zhiliu@stu.xidian.edu.cn)
 [ORCID](https://orcid.org/0000-0003-4781-7125) | [DBLP](https://dblp.uni-trier.de/pers/hd/l/Liu:Zhi) | [GitHub](https://github.com/antsfamily/) | 
