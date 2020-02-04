@@ -13,7 +13,7 @@
 
 **Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/)
 
-**Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) |
+**Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
    | [Nature](https://www.nature.com/)
    | [Science](https://science.sciencemag.org/) | [ScienceJournals](https://www.sciencemag.org/journals) | [ScienceAdvances](https://advances.sciencemag.org/)
    | [ScienceDirect](https://www.sciencedirect.com/) | [arXiv.org](https://arxiv.org/)
@@ -103,6 +103,8 @@
 ## Collections
 
 - [Library](./Library.md)
+
+- [Tutorial](./Tutorial.md)
 
 
 
