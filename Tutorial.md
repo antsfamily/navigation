@@ -11,6 +11,10 @@
   - [video](https://www.bilibili.com/video/av64160249)
   - [web](https://datawhalechina.github.io/leela-notes/)
 
+### 应用数学基础 2018
+
+- [homepage](http://resource.pku.edu.cn/index.php?r=course/detail&id=315)
+
 
 
 
