@@ -24,7 +24,8 @@
   - [web](https://datawhalechina.github.io/leeml-notes/)
 
 
-
+- **Introduction to Machine Learning, 2012**
+  - [web](http://cs.brown.edu/courses/cs195-5/spring2012/calendar.html)
 
 
 ## Radar
