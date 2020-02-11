@@ -32,6 +32,11 @@
   - [web](http://cs.brown.edu/courses/cs195-5/spring2012/calendar.html)
 
 
+- **A Course in Machine Learning**
+  - [hompage](http://ciml.info/)
+
+
+
 ## Radar
 
 - [Radar Tutorial](https://www.radartutorial.eu/index.en.html)
