@@ -9,3 +9,4 @@
 
 - [EPDF](https://epdf.pub/): Write A Book And Publish - PDF Free Download
 
+- [文泉学堂](https://lib-nuanxin.wqxuetang.com/): 免费阅读
