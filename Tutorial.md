@@ -35,6 +35,15 @@
 - **A Course in Machine Learning**
   - [hompage](http://ciml.info/)
 
+- **MIT Deep Learning**
+  - [MIT DL](https://deeplearning.mit.edu/)
+
+
+### Reinforcement Learning
+
+- **Reinforcement Learning and Optimal Control**
+  - [homepage](http://web.mit.edu/dimitrib/www/RLbook.html)
+
 
 
 ## Radar
