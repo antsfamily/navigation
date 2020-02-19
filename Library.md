@@ -18,4 +18,28 @@
 - [航空材料知识库](http://123.124.66.24:8085/AerialMaterial/modulePage/index/index.jsp): 用户名：ndip，密码：ndip。包含1300多个材料牌号，一万多张参数表格，4000多条曲线图谱
 
 
+## Software
+
+
+### Image Reconstruction
+
+- [Michigan Image Reconstruction Toolbox (MIRT)](https://web.eecs.umich.edu/~fessler/code/index.html): Tomographic imaging (PET, SPECT, X-ray CT), MRI reconstruction, FFT
+
+- [Institute of Medical Engineering](https://github.com/IMTtugraz): Python, C++, MATLAB for MRI reconstruction
+
+- [Mike Lustig's SPIRiT package for MR reconstruction](https://people.eecs.berkeley.edu/~mlustig//Software.html): MRI reconstruction (Sparse MRI, ESPIRiT, T2 Shuffling, SigPy, BART)
+
+- [Institute of Medical Engineering](https://www.tugraz.at/institutes/imt/home/): MR image reconstruction, Local MR-Tomograph, Molecular and cellular imaging
+
+- [Operator Discretization Library](https://odlgroup.github.io/odl/index.html): a python library for fast prototyping focusing on (but not restricted to) inverse problems
+
+- [Reconstruction Toolkit (RTK)](http://www.openrtk.org/): an open-source and cross-platform software for fast circular cone-beam CT reconstruction based on the Insight Toolkit (ITK)
+
+
+
+### Signal Processing
+
+- [FINUFFT](https://github.com/flatironinstitute/finufft): Flatiron Institute Nonuniform Fast Fourier Transform libraries, written in C++ with interfaces to C, Fortran, MATLAB/octave, Julia and python.
+
+
 
