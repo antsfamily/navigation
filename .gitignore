@@ -104,7 +104,6 @@ venv.bak/
 
 _site/Tutorials
 _site/Projects
-_site/*.html
 _site/*.md
 _site/*.sh
 _site/LICENSE
