@@ -39,7 +39,26 @@
 
 ### Signal Processing
 
+#### Basic
+
 - [FINUFFT](https://github.com/flatironinstitute/finufft): Flatiron Institute Nonuniform Fast Fourier Transform libraries, written in C++ with interfaces to C, Fortran, MATLAB/octave, Julia and python.
+
+
+#### Compressive Sensing
+
+- [Software by Rice University](http://dsp.rice.edu/software/): a lot of compressive sensing related codes
+- [Software by Derin Babacan](http://www.dbabacan.info/software.html): Sparse and Bayesian compression sensing
+
+
+### Radar
+
+#### Synthetic Aperture Radar
+
+- [Matlab Imaging Software by Toby Sanders](https://www.toby-sanders.com/software): Nanoscale 3D imaging and SAR imaging
+
+
+
+
 
 
 
