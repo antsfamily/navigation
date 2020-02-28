@@ -83,7 +83,7 @@
 
 **local** | [pytorch en](Projects/pytorch/html/index.html "pytorch docs") | [torchvision en](Projects/vision/html/index.html "torchvision docs")  | [numba](Projects/numba/html/index.html "A High Performance Python Compiler") | 
 
-**remote** | [pytorch en](https://pytorch.org/docs/stable/index.html "pytorch docs") [pytorch zh](https://pytorch-cn.readthedocs.io/zh/latest/ "pytorch docs") | [torchvision en](https://pytorch.org/docs/master/torchvision/ "torchvision docs") | [numba](http://numba.pydata.org/ "A High Performance Python Compiler") |
+**remote** | [pytorch en](https://pytorch.org/docs/stable/index.html "pytorch docs") [pytorch zh](https://pytorch-cn.readthedocs.io/zh/latest/ "pytorch docs") | [torchvision en](https://pytorch.org/docs/master/torchvision/ "torchvision docs") | [numba](http://numba.pydata.org/ "A High Performance Python Compiler") | [Julia en](https://julialang.org/ "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack")
 
 <!-- - **pytorch**:
 	- [local en](Projects/pytorch/html/index.html)

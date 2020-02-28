@@ -18,3 +18,5 @@ fixScale = function(doc) {
 	}
 
 };
+
+

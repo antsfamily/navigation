@@ -102,11 +102,7 @@ venv.bak/
 
 # jekyll
 
-_site/Tutorials
-_site/Projects
-_site/*.md
-_site/*.sh
-_site/LICENSE
+_site
 
 
 Tutorials
