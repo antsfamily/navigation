@@ -11,8 +11,6 @@
 
 - [DOC Lagout](https://doc.lagout.org/): Books, available
 
-
-
 - [文泉学堂](https://lib-nuanxin.wqxuetang.com/): 免费阅读
 
 - [雷达与探测知识库](http://kg.iguofang.net:8888/): 包含140种科技专著，以及雷达与探测领域知识词条13000条，知识关系13000个
