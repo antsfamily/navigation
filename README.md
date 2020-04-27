@@ -22,7 +22,7 @@
 
 **Other** | [time](https://time.is/)
 
-**Collections** | [Conference](./Conference.md) | [Library](./Library.md) | [Tutorial](./Tutorial.md)
+**Collections** | [Conference](./Conference.md) | [Library](./Library.md) | [Tutorial](./Tutorial.md) | [Homepage](./Homepage.md) |
 
 ## My Tutorials
 
