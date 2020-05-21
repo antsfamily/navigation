@@ -60,6 +60,18 @@
 
 
 
+### Robotics
+
+
+
+- [MRPT](https://www.mrpt.org/): Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. It is open source. Tracking, SLAM, Computer Vision
+- [OctoMap](https://octomap.github.io/): An Efficient Probabilistic 3D Mapping Framework Based on Octrees
+
+
+
+
+
+
 
 
 

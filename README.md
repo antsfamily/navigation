@@ -9,7 +9,7 @@
 
 **Contact** | [stu.xidian.edu.cn](http://stumail.xidian.edu.cn/) | [ORCID](https://orcid.org/) | [DBLP](https://dblp.uni-trier.de/) | [GitHub](https://github.com/)
 
-**Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/)
+**Knowledge** | [Wikipedia](http://en.volupedia.org/ "Wikipedia mirror") | [zbmath](https://zbmath.org/) | [Wolfram Mathworld](http://mathworld.wolfram.com/) | [Magi](https://magi.com/) | [gxs](https://ac.scmor.com/)
 
 **Magazines** | [QuantaMagazine](https://www.quantamagazine.org/) | [The Lancet](https://www.thelancet.com)
    | [Nature](https://www.nature.com/)
