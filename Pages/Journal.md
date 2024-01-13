@@ -143,18 +143,8 @@
 | IEEE Access  | [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639)                                           | [submit](https://mc.manuscriptcentral.com/ieee-access)                            | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=10017)    |   2区   |
 |  MDPI |  [MDPI](https://www.mdpi.com/) | [Open journals](https://www.mdpi.com/about/journals)   |  | -   |
 |  IET  |  [IET](https://ietresearch.onlinelibrary.wiley.com/) | [Open journals](https://ietresearch.onlinelibrary.wiley.com/#)   |  | -   |
-| Computing | [Computing](https://www.springer.com/journal/607)                                      | [submit](https://www.editorialmanager.com/COMP)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2018)     |   4区   |
-| VC  | [Visual Computer](https://www.springer.com/journal/371)          | [submit](https://www.editorialmanager.com/TVCJ)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8059)     |   4区   |
-| MS  | [Multimedia Systems](https://www.springer.com/journal/530)    | [submit](https://www.editorialmanager.com/mmsj/)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6011)     |   4区   |
-| MSSP | [Multi-dimensional Systems and Signal Processing](https://www.springer.com/journal/11045)    | [submit](https://www.editorialmanager.com/mssp)   | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5616)     |   4区   |
-| MVA | [Machine Vision and Applications](https://www.springer.com/journal/138)    | [submit](https://www.editorialmanager.com/MVAP)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5616)     |   4区   |
-| DKE | [Data & Knowledge Engineering](http://www.journals.elsevier.com/data-and-knowledge-engineering/)    | [submit](https://www.editorialmanager.com/DATAK)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2228)     |   4区   |
 | EL  | [Electronics Letters](http://www.ietdl.org/EL), [New](https://ietresearch.onlinelibrary.wiley.com/journal/1350911X)   | [submit](https://mc.manuscriptcentral.com/theiet-el)    | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2463)     |   4区   |
-| NN  | [Neural Networks](https://www.journals.elsevier.com/neural-networks) | [submit](https://www.editorialmanager.com/neunet/default.aspx)  | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6126)  | 2区   |
-| NPL | [Neural Processing Letters](https://www.springer.com/journal/11063)    | [submit](https://www.editorialmanager.com/NEPL)    | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6128)     |   4区   |
-| IPL | [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters)          | [submit](https://www.editorialmanager.com/ipl/)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3565)     |   4区   |
-| SPL | [Statistics & Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)   | [submit](https://www.editorialmanager.com/stapro/default.aspx) | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=7637)  | 4区  |
-| AML | [Applied Mathematics Letters](https://www.journals.elsevier.com/applied-mathematics-letters)   | [submit](https://www.editorialmanager.com/AML/default.aspx) | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=743)  | 1区  |
+
 
 
 ### Misc
@@ -167,6 +157,17 @@
 | IEEE TSM | [IEEE Transactions on Semiconductor Manufacturing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=66) | [submit](http://mc.manuscriptcentral.com/ieee-tsm) | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3418)   |  4区  |
 |  IEEE TBCS         |  [IEEE Transactions on Biomedical Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4156126)               | [submit](http://mc.manuscriptcentral.com/tbcas)                |  [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3366)    |   2区   |
 | IEEE TPEL  | [IEEE Transactions on Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)                   |     [submit](http://mc.manuscriptcentral.com/tmtt-ieee)             | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3414)          |   1区   |
+| Computing | [Computing](https://www.springer.com/journal/607)                                      | [submit](https://www.editorialmanager.com/COMP)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2018)     |   4区   |
+| VC  | [Visual Computer](https://www.springer.com/journal/371)          | [submit](https://www.editorialmanager.com/TVCJ)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8059)     |   4区   |
+| MS  | [Multimedia Systems](https://www.springer.com/journal/530)    | [submit](https://www.editorialmanager.com/mmsj/)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6011)     |   4区   |
+| MSSP | [Multi-dimensional Systems and Signal Processing](https://www.springer.com/journal/11045)    | [submit](https://www.editorialmanager.com/mssp)   | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5616)     |   4区   |
+| MVA | [Machine Vision and Applications](https://www.springer.com/journal/138)    | [submit](https://www.editorialmanager.com/MVAP)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=5616)     |   4区   |
+| DKE | [Data & Knowledge Engineering](http://www.journals.elsevier.com/data-and-knowledge-engineering/)    | [submit](https://www.editorialmanager.com/DATAK)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=2228)     |   4区   |
+| NN  | [Neural Networks](https://www.journals.elsevier.com/neural-networks) | [submit](https://www.editorialmanager.com/neunet/default.aspx)  | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6126)  | 2区   |
+| NPL | [Neural Processing Letters](https://www.springer.com/journal/11063)    | [submit](https://www.editorialmanager.com/NEPL)    | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6128)     |   4区   |
+| IPL | [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters)          | [submit](https://www.editorialmanager.com/ipl/)    | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3565)     |   4区   |
+| SPL | [Statistics & Probability Letters](https://www.journals.elsevier.com/statistics-and-probability-letters)   | [submit](https://www.editorialmanager.com/stapro/default.aspx) | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=7637)  | 4区  |
+| AML | [Applied Mathematics Letters](https://www.journals.elsevier.com/applied-mathematics-letters)   | [submit](https://www.editorialmanager.com/AML/default.aspx) | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=743)  | 1区  |
 
 ### Nature Science
 
@@ -179,6 +180,7 @@
 | Nature Neuro-science  | [Nature Neuro-science](https://www.nature.com/neuro)        |     [submit](https://mts-nn.nature.com/), [guide](https://www.nature.com/neuro/submission-guidelines)             | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=6066)          |   1区   |
 | Nature Communi-cations | [Nature Communi-cations](https://www.nature.com/ncomms)        |     [submit](https://mts-ncomms.nature.com/cgi-bin/main.plex), [guide](https://www.nature.com/ncomms/submit)             | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8411)          |   1区   |
 | Nature Machine Intelligence | [Nature Machine Intelligence](https://www.nature.com/natmachintell)        |     [submit](https://mts-natmachintell.nature.com/), [guide](https://www.nature.com/natmachintell/submission-guidelines)             | [letpub](http://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=11172)          |   1区   |
+| Nature Scientific Reports | [Scientific Reports](https://www.nature.com/srep/)        |     [submit](https://author-welcome.nature.com/41598), [guide](https://www.nature.com/srep/author-instructions)             | [letpub](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8695)          |   2区，综合性   |
 
 
 | [Quanta Magazine](https://www.quantamagazine.org/) | [Science Direct](https://www.sciencedirect.com/) | 
