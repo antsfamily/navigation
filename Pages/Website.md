@@ -26,7 +26,7 @@
 | Julia  | [home](https://julialang.org/) | [developer](https://docs.julialang.org/)  | [Packages1](https://julialang.org/packages/), [Packages2](https://juliapackages.com/), [JuliaHub](https://juliahub.com/ui/Packages)  |
 | Lua  | [home](https://www.lua.org/) | [developer](https://www.lua.org/docs.html)  | [LuaRocks](https://luarocks.org/)  |
 | Ruby  | [home](https://www.ruby-lang.org/) | [community](https://www.ruby-lang.org/en/community/)  | [RubyGems](https://rubygems.org/)  |
-| Matlab  | [home](https://www.mathworks.com/) | [developer](https://www.mathworks.com/help/)  | [Toolbox](https://www.mathworks.com/products.html)，[MatlabCentral](https://www.mathworks.com/matlabcentral/)，[FileExchange](https://www.mathworks.com/matlabcentral/fileexchange/)  |
+| Matlab  | [home](https://www.mathworks.com/) | [developer](https://www.mathworks.com/help/)  | [Toolbox](https://www.mathworks.com/products.html)，[Matlab Central](https://www.mathworks.com/matlabcentral/)，[File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/)  |
 | MWorks  | [home](https://www.tongyuan.cc/product/MWorks) | [developer](https://www.tongyuan.cc/technical-support)  | [Toolbox](https://www.tongyuan.cc/product/MWorksToolbox)，[BBS](https://bbs.tongyuan.cc/)  |
 
 ## AI
