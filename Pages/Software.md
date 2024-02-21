@@ -11,9 +11,9 @@
 
 ## 远程协助
 
-| [RayLink](https://www.raylink.live/)  | [官方下载](https://www.raylink.live/download.html) | [其它下载](https://www.123pan.com/s/eQ0vjv-6W413.html) | [手机手册](https://www.raylink.live/helpcenter/support-1048.html)  |
-| [向日葵](https://sunlogin.oray.com/)  | [官方下载](https://sunlogin.oray.com/download?categ=personal) | [其它下载, 密码5nxc](https://wwqe.lanzouy.com/b04wajk5g) | [手机手册](https://service.oray.com/category/340_1.html)  |
 | [ToDesk](https://www.todesk.com/) | [官方下载](https://www.todesk.com/download.html) | [其它下载, 密码2sre](https://wwqe.lanzouy.com/b04wajkcd) | [手机手册](https://www.todesk.com/helpcenter/solo-104.html), [Image](./ToDesk.md)|
+| [向日葵](https://sunlogin.oray.com/)  | [官方下载](https://sunlogin.oray.com/download?categ=personal) | [其它下载, 密码5nxc](https://wwqe.lanzouy.com/b04wajk5g) | [手机手册](https://service.oray.com/category/340_1.html)  |
+| [RayLink](https://www.raylink.live/)  | [官方下载](https://www.raylink.live/download.html) | [其它下载](https://www.123pan.com/s/eQ0vjv-6W413.html) | [手机手册](https://www.raylink.live/helpcenter/support-1048.html)  |
 | [AnyDesk](https://anydesk.com/)      | [官方下载](https://anydesk.com/en/downloads/android) | [其它下载, 密码8tdv](https://wwqe.lanzouy.com/b04wajkef)  | [手机手册]() |
 
 ## 投屏推流

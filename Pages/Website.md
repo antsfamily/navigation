@@ -56,7 +56,10 @@
 
 ## 多媒体
 
+| [送歌网](https://www.songe.cc/)  | [牛五音乐网](http://www.6002255.com/) | [5ND音乐](http://www.5nd.com/) |
+| [Free Music](https://tools.liumingye.cn/music/#/) |   |   |
 | [歌词到歌曲搜索](https://www.musicenc.com/) | [顽狗音乐](https://music.dogged.cn/) | [FLAC音乐](http://www.ape-flac.com/) |
+
 
 
 ## 其它
