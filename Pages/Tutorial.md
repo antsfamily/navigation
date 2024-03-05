@@ -81,6 +81,11 @@
 | Camtasia Tutorial   | [homepage](https://www.luping.net.cn/jiaoxue.html) |
 | Python Scientific computing | [homepage](http://liao.cpython.org/)       |
 
+## Programing
+
+
+| Algorithm Handbook | [homepage](https://algo.itcharge.cn/)  |  [code](https://github.com/itcharge/LeetCode-Py)   |
+| Pythonic Data Structures and Algorithms | [homepage](https://algo.itcharge.cn/)  |  [code](https://github.com/keon/algorithms)   |
 
 ## Misc
 
