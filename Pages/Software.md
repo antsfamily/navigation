@@ -42,7 +42,8 @@
 | [WPS Office](https://www.wps.cn/)    |   Windows、Linux、MacOS、iOS、Android     |  doc, ppt, pdf, 部分功能免费 | [下载](https://www.wps.cn/product/)  |
 | [LibreOffice](https://www.libreoffice.org/)    |   Windows、Linux、MacOS、iOS、Android     |  doc, ppt, pdf，免费 | [下载](https://www.libreoffice.org/download/)  |
 | [Literature Management](https://blog.csdn.net/enjoyyl/article/details/46523695) |  Windows、Linux、MacOS | 对比、推荐Citavi |   |
-| [JabRef](https://www.jabref.org/) |  Windows、Linux、MacOS  |     | [下载](https://www.123pan.com/s/eQ0vjv-cW413.html) |
+| [Zotero](https://www.zotero.org/) |  Windows、Linux、MacOS  | 开源免费，[插件市场](https://github.com/syt2/zotero-addons)    | [下载](https://www.zotero.org/download/) |
+| [JabRef](https://www.jabref.org/) |  Windows、Linux、MacOS  | 开源免费    | [下载](https://www.123pan.com/s/eQ0vjv-cW413.html) |
 | [BibTexManager](https://play.google.com/store/apps/details?id=org.eu.thedoc.bibtexmanager) |  Android  |  免费   | [下载](https://www.123pan.com/s/eQ0vjv-yBx13.html) |
 | [Grammarly](https://www.grammarly.com/) |  Windows、MacOS、Android、Browser  |  免费、语法检查   | [下载](https://www.grammarly.com/desktop) |
 | [1Checker](http://www.1checker.com/) |  Windows、MacOS、Android、Browser  |  免费、语法检查   | [下载](http://www.1checker.com/Products/DownLoad?product=Desktop) |
