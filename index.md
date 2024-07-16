@@ -84,7 +84,7 @@
 | [Question](./Pages/Question.md) | [Answer](./Pages/Answer.md) | [Guide](./Pages/Guide.md) |
 | [Benchmark](https://iridescent.ink/benchmark) | [Dataset](https://iridescent.ink/dataset) | [Collections](https://iridescent.ink/collection) |
 | [Time](https://time.is/) | [GitHub Daily](https://github.com/GitHubDaily/GitHubDaily) | [MSDN](http://msdn.itellyou.cn) |
-| [Fund](./Pages/Fund.md)  |   |     |
+| [Fund](./Pages/Fund.md)  | [Deep ML Codes](https://www.deep-ml.com)  | [GPU benchmark](https://bizon-tech.com/gpu-benchmarks)    |
 
 ## API
 
