@@ -31,11 +31,12 @@
 
 ## AI
 
-| [国内外大模型汇总](https://github.com/wgwang/LLMs-In-China)  |     |
-
+| [国内外大模型汇总](https://github.com/wgwang/LLMs-In-China)  |  [AI tools](https://ai-bot.cn/)   |
 | [DeepAI](https://deepai.org/) | [Chat](https://deepai.org/chat), [Chat Mirror](https://linkss.lbbai.com/) | [glossary](https://deepai.org/definitions) | [research](https://deepai.org/research) |
 | [OpenAI](https://openai.com/) | [Chat](https://chat.openai.com/) | [blog](https://openai.com/blog) | [research](https://openai.com/research) |
+| [DeepSeek](https://www.deepseek.com/)  | [Chat](https://chat.deepseek.com/)  |   |   |
 | [文心](https://wenxin.baidu.com/) |  [一言](https://yiyan.baidu.com/welcome) |  |  |
+| [混元](https://hunyuan.tencent.com/) |  [通义](https://www.tongyi.com/) |  |  |
 | [开放猫](https://openmao.com)  |  |  |  |
 | [DevChat](https://web.devchat.ai/)  |   |   | VScode插件  |
 
@@ -46,6 +47,7 @@
 | [腾讯源](https://mirrors.cloud.tencent.com) | [ubuntu配置参考](https://mirrors.cloud.tencent.com/help/ubuntu.html)  | [PyPi配置值](https://mirrors.cloud.tencent.com/pypi/simple), [参考](https://mirrors.cloud.tencent.com/help/pypi.html) |
 | [网易源](https://mirrors.163.com) | [ubuntu配置参考](https://mirrors.163.com/.help/ubuntu.html)  | [PyPi配置值](https://mirrors.163.com/pypi/simple/), [参考](https://mirrors.cloud.tencent.com/help/pypi.html) |
 | [华为源](https://mirrors.huaweicloud.com) | [ubuntu配置参考](https://mirrors.huaweicloud.com/mirrorDetail/5ea14ecab05943f36fb75ee7)  | [PyPi配置值](https://repo.huaweicloud.com/repository/pypi/simple), [参考](https://developer.aliyun.com/mirror/pypi) |
+
 
 ## APP Store
 

@@ -11,6 +11,7 @@
 
 ## 远程协助
 
+| [RustDesk](https://rustdesk.com/) | [官方下载](https://www.todesk.com/download.html) | 开源免费,  | [手机手册](https://www.todesk.com/helpcenter/solo-104.html), [Image](https://rustdesk.com/docs/en/self-host/)|
 | [ToDesk](https://www.todesk.com/) | [官方下载](https://www.todesk.com/download.html) | [其它下载, 密码2sre](https://wwqe.lanzouy.com/b04wajkcd) | [手机手册](https://www.todesk.com/helpcenter/solo-104.html), [Image](./ToDesk.md)|
 | [向日葵](https://sunlogin.oray.com/)  | [官方下载](https://sunlogin.oray.com/download?categ=personal) | [其它下载, 密码5nxc](https://wwqe.lanzouy.com/b04wajk5g) | [手机手册](https://service.oray.com/category/340_1.html)  |
 | [RayLink](https://www.raylink.live/)  | [官方下载](https://www.raylink.live/download.html) | [其它下载](https://www.123pan.com/s/eQ0vjv-6W413.html) | [手机手册](https://www.raylink.live/helpcenter/support-1048.html)  |
@@ -54,9 +55,20 @@
 | [Texlive](https://tug.org/texlive)  | Windows、Linux、MacOS  | LaTex排版后端工具, [下载选择nearby那个](https://www.tug.org/texlive/acquire-iso.html)  |
 | [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/)  | Windows、Linux、MacOS  |  开源免费  |   |
 | [MarkText](https://www.marktext.cc/)  |  Windows、Linux、MacOS  | 开源免费  | [下载](https://www.123pan.com/s/eQ0vjv-Yfx13.html)    |
-| [QGIS](https://www.qgis.org/)  |  Windows、Linux、MacOS、BSD、Android  | 开源免费，[source](https://github.com/qgis/QGIS)  | [下载](https://www.qgis.org/en/site/forusers/download.html)    |
+| [QGIS](https://www.qgis.org/)  |  Windows、Linux、MacOS、BSD、Android  | 遥感影像查看，开源免费，[source](https://github.com/qgis/QGIS)  | [下载](https://www.qgis.org/en/site/forusers/download.html)    |
 | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)  | Windows、Linux、MacOS  | 文件恢复, [使用教程](https://iridescent.blog.csdn.net/article/details/125034356)  |  [下载](https://www.123pan.com/s/eQ0vjv-dC413.html)  |
+
+
+
+## 系统
+
+| [Ventoy](https://www.ventoy.net/) | Linux、Windows、MacOS   | 启动盘制作、开源免费   |  [下载](https://www.ventoy.net/cn/download.html)    |
 | [Activation](http://win激活.top) | Windows   |     |      |
+
+## 娱乐
+
+| [FreePiano](https://freepiano.tiwb.com/cn/) | Windows   |  电脑钢琴   |      |
+| [NextCloud](https://nextcloud.com/)  | Windows、Linux、MacOS、Android、IOS | 私有云部署，开源免费 |  |
 
 
 ## 网页端
@@ -83,6 +95,7 @@
 | [天翼云盘](https://cloud.189.cn/) | 需客户端，速度快，有同步功能（流量无限制）  |
 | [百度网盘](https://pan.baidu.com/) | 需客户端，速度慢，有同步功能（流量限1G）  |
 | [MEGA](https://mega.nz/)  | 免费30G+空间  |
+
 
 
 

@@ -6,7 +6,7 @@
 
 | 首页   | 备注 |
 | :---   | :--- |
-| [饭太硬](http://饭太硬.top/)  |  接口、工具   |
+| [饭太硬](http://www.饭太硬.com/)  |  接口、工具   |
 | [菜妮丝](https://cainisi.cf/)  |  接口、工具   |
 | [黎歌](https://www.lige.fit)  |  接口、工具   |
 | [Gao](https://tv.203511.xyz/)  | 接口  |
@@ -33,7 +33,7 @@
 
 | 接口  |  接口地址  | 备注 |
 | :---  | :---      | :--- |
-| 饭太硬 | [接口1](http://饭太硬.top/tv)    |  [首页](http://饭太硬.top/)   |
+| 饭太硬 | [接口1](http://饭太硬.top/tv)    |  [首页](http://www.饭太硬.com/)   |
 | Meow   | [接口1](http://miaotvs.cn/meow) | 较全   |
 | 菜妮丝 | [接口1](https://tvbox.cainisi.cf) | 较全   |
 | Ray     | [接口1](https://xhdwc.tk/0)     | [仓库](https://dxawi.github.io/0/)   |

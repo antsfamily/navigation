@@ -31,9 +31,15 @@
 
 ## Useful Links
 
+*AI*
+
+| [AI tools](https://ai-bot.cn/) | [AI Code](https://gitclone.com/aiit/chat1/) | 
+| [DeepSeek](https://chat.deepseek.com/) | [Hunyuan](https://llm.hunyuan.tencent.com/#/chat) | [BaiDuAI](https://chat.baidu.com/) | [Qwen](https://www.tongyi.com/) | 
+
 *Search*
 
 | [Google](https://www.google.com/) |  [Bing](https://www.bing.com/)  |  [Baidu](https://www.baidu.com/)  |  [Sougou](https://www.sogou.com/)  |
+| [Github](https://www.github.com/), [M1](https://kkgithub.com), [M2](https://gh-proxy.com/), [M3](https://www.gitclone.com/) | [GitLab](https://gitlab.com/) | [CodeBerg](https://codeberg.org/) | [Gitee](https://gitee.com/) |
 
 *Translation*
 
@@ -43,10 +49,10 @@
 
 *Scholar/Literature*
 
-| [Google](https://scholar.google.com/), [JX](https://ac.scmor.com/) |  [Bing](https://www.bing.com/academic)  |  [BaiDu](https://xueshu.baidu.com/)  | [Sougou](https://scholar.sogou.com/) |
+| [Google](https://scholar.google.com/), [Ms](https://ac.scmor.com/) |  [Bing](https://www.bing.com/academic)  |  [BaiDu](https://xueshu.baidu.com/)  | [Sougou](https://scholar.sogou.com/) |
 | [Springer Link](https://link.springer.com/)      | [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)   | [Science Direct](https://www.sciencedirect.com/)  |  [WoS](https://www.webofscience.com)  |
 | [Semantic](https://www.semanticscholar.org/)     | [arXiv.org](https://arxiv.org/)   | [SCI hub](https://www.sci-hub.pub/)  | [OAlib](https://www.oalib.com)   |
-| [ZLibrary](https://singlelogin.re)      | [Anna’s Archive](https://annas-archive.org/)   | [EPDF](https://epdf.tips/)  | [DOC](https://doc.lagout.org/)   |
+| [ZLibrary](https://zh.z-lib.shop/)      | [Anna’s Archive](https://annas-archive.org/)   | [EPDF](https://epdf.tips/)  | [DOC](https://doc.lagout.org/)   |
 | [WanFang](https://www.wanfangdata.com.cn/index.html)  |  [CNKI](http://www.cnki.net/index/)  |  [WeiPu](https://qikan.cqvip.com/)  |  [PubScholar](https://pubscholar.cn)   |
 | [Xidian](https://dbnav.xidian.edu.cn/newwisdom/doordatabase/database.html?pageId=14305&wfwfid=2403&sw=)   | [NWPU](https://tushuguan.nwpu.edu.cn/test2019/dzzy2019/sjkdh2019.htm)       |        |      |
 
@@ -90,6 +96,7 @@
 
 
 | [pytorch en](https://pytorch.org/docs/stable/index.html "pytorch docs") [zh](https://pytorch-cn.readthedocs.io/zh/latest/ "pytorch docs") | [torchvision en](https://pytorch.org/docs/master/torchvision/ "torchvision docs") | [pytorch tutorials](https://pytorch.org/tutorials/) |
+| [pytorch geometric](https://pytorch-geometric.readthedocs.io/en/latest/index.html) |  |   |
 | [Julia en](https://docs.julialang.org/en "The Julia Programming Language") [zh](https://julia-cn.readthedocs.io/  "The Julia Programming Language") | [Flux](https://fluxml.ai/ "The Elegant Machine Learning Stack") |
 | [JAX](https://jax.readthedocs.io/en/latest/) | [numba](http://numba.pydata.org/ "A High Performance Python Compiler")  [spectrum](https://pyspectrum.readthedocs.io) |
 | [numpy](https://numpy.org/doc/stable/reference/index.html) | [scipy](https://docs.scipy.org/doc/) | [scikit-learn](https://scikit-learn.org/stable/) | 

@@ -7,7 +7,7 @@
 
 - [Anna’s Archive](https://annas-archive.org/): Search engine of shadow libraries: books, papers, comics, magazines.
 
-- [ZLibrary](https://singlelogin.re): The world's largest ebook and article library
+- [ZLibrary](https://zh.z-lib.shop/): The world's largest ebook and article library, [Link1](https://zh.z-lib.gs/), [Link2](https://en.z-lib.gs/), [Link3](https://z-library.sk/)
 
 - [EPDF](https://epdf.pub/): Write A Book And Publish - PDF Free Download
 
