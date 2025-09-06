@@ -96,7 +96,7 @@
 | [天翼云盘](https://cloud.189.cn/) | 需客户端，速度快，有同步功能（流量无限制）  |
 | [百度网盘](https://pan.baidu.com/) | 需客户端，速度慢，有同步功能（流量限1G）  |
 | [MEGA](https://mega.nz/)  | 免费30G+空间  |
-| [FileStash](https://www.filestash.app/)  | 无需客户端，速度快, 免费2T |
+| [FileStash](https://www.filestash.app/)  | 文件 |
 
 
 
