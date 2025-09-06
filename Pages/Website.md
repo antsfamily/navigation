@@ -48,12 +48,16 @@
 | [网易源](https://mirrors.163.com) | [ubuntu配置参考](https://mirrors.163.com/.help/ubuntu.html)  | [PyPi配置值](https://mirrors.163.com/pypi/simple/), [参考](https://mirrors.cloud.tencent.com/help/pypi.html) |
 | [华为源](https://mirrors.huaweicloud.com) | [ubuntu配置参考](https://mirrors.huaweicloud.com/mirrorDetail/5ea14ecab05943f36fb75ee7)  | [PyPi配置值](https://repo.huaweicloud.com/repository/pypi/simple), [参考](https://developer.aliyun.com/mirror/pypi) |
 
+## 镜像
+
+| GitHub | [EN](https://github.com/) | [M1](https://bgithub.xyz/), [M2](https://kkgithub.com/) | [A1](https://ghproxy.com/), [A2](https://github.akams.cn/), [A3](https://ghproxy.link), [A4](https://ghproxy.net/), [A5](https://github.ur1.fun/) |
+| Huggingface | [EN](https://huggingface.co/), [CN](https://hugging-face.org.cn/) | [M1](https://hf-mirror.com/), [M2](https://hf-cdn.sufy.com) |    |
+| NVIDIA | [EN](https://www.nvidia.com/), [CN](https://www.nvidia.cn/) |   |   |
 
 ## APP Store
 
-*Android apk*
-
-| [APK for PC](https://napkforpc.com/) | [Google Play](https://play.google.com/store/apps/)  | [F-Droid](https://f-droid.org/)  | [ApkPure](https://apkpure.com/)  | [ApkCombo](https://apkcombo.com/)   |
+| [ApkPremier](https://apkpremier.com/) | [F-Droid](https://f-droid.org/)  | [ApkPure](https://apkpure.com/)  |
+| [ApkCombo](https://apkcombo.com/)   | [APK for PC](https://napkforpc.com/) | [Google Play](https://play.google.com/store/apps/)  | 
 
 
 ## 多媒体

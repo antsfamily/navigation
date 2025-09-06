@@ -39,7 +39,8 @@
 *Search*
 
 | [Google](https://www.google.com/) |  [Bing](https://www.bing.com/)  |  [Baidu](https://www.baidu.com/)  |  [Sougou](https://www.sogou.com/)  |
-| [Github](https://www.github.com/), [M1](https://kkgithub.com), [M2](https://gh-proxy.com/), [M3](https://www.gitclone.com/) | [GitLab](https://gitlab.com/) | [CodeBerg](https://codeberg.org/) | [Gitee](https://gitee.com/) |
+| [Github](https://www.github.com/), [M1](https://bgithub.xyz), [M2](https://kkgithub.com), [A1](https://gh-proxy.com/), [A2](https://www.gitclone.com/) | [GitLab](https://gitlab.com/) | [CodeBerg](https://codeberg.org/) | [Gitee](https://gitee.com/) |
+| [huggingface](https://huggingface.co/), [CN](https://hugging-face.org.cn/), [M1](https://hf-mirror.com/), [M2](https://hf-cdn.sufy.com/)  |
 
 *Translation*
 
@@ -58,7 +59,8 @@
 
 *Dataset Search*
 
-| [Google Dataset Search](https://datasetsearch.research.google.com/) | [Machine Learning Datasets](https://www.datasetlist.com/) | [Data Share](https://datashare.is.ed.ac.uk/) | [IEEE GRSS](https://eod-grss-ieee.com/dataset-search) |
+| [Google Dataset Search](https://datasetsearch.research.google.com/) | [Machine Learning Datasets](https://www.datasetlist.com/) | [Data Share](https://datashare.is.ed.ac.uk/) |
+| [IEEE GRSS](https://eod-grss-ieee.com/dataset-search) | [awesome](https://github.com/awesomedata/awesome-public-datasets) |   |
 
 *Contact*
 
@@ -74,7 +76,7 @@
 | [Chemical](https://www.chemnetbase.com/) |     |     |
 | [w3schools](https://www.w3schools.com/) | [Novice Tutorial](http://runoob.com)  | [Stack Overflow](https://stackoverflow.com/) |
 | [汉语词典](https://cd.hwxnet.com/) | [剑桥词典](https://dictionary.cambridge.org/) | [柯林斯词典](https://www.collinsdictionary.com/) |
-| [术语在线](https://www.termonline.cn/) | []() |
+| [术语在线](https://www.termonline.cn/) |  |  |
 
 
 *Community*
