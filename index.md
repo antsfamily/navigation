@@ -33,8 +33,16 @@
 
 *AI*
 
-| [AI tools](https://ai-bot.cn/) | [AI Code](https://gitclone.com/aiit/chat1/) | 
-| [DeepSeek](https://chat.deepseek.com/) | [Hunyuan](https://llm.hunyuan.tencent.com/#/chat) | [BaiDuAI](https://chat.baidu.com/) | [Qwen](https://www.tongyi.com/) | 
+| [AI Tools](https://ai-bot.cn/) | [AI Code](https://gitclone.com/aiit/chat1/) | [AI Chat](https://aichat.org/chat) | [FreeChat](https://freechat.org/chat) | 
+| [DeepSeek](https://chat.deepseek.com/) | [YuanBao](https://yuanbao.tencent.com/chat) | [WenXin](https://chat.baidu.com/) | [Qwen](https://www.tongyi.com/) |
+| [DouBao](https://www.doubao.com/chat)  | [XiaoMi](https://aistudio.xiaomimimo.com/) | [XingHuoXF](https://xinghuo.xfyun.cn/desk) | [AgentXF](https://agent.xfyun.cn/chat) |
+| [NoteGPT](https://notegpt.io/ai-chat) | [HotBot](https://hotbot.com) | [FreeChatGPT](https://www.softorbits.net/chatgpt-free/) | [TorchCode](https://github.com/duoan/TorchCode/), [TorchCode](https://huggingface.co/spaces/duoan/TorchCode/) |
+
+*Online Coding*
+
+| [CodeUtility](https://codeutility.io/) | [Programiz](https://programiz.pro/ide/python/), [Programiz](https://www.programiz.com/) | [Embedenv](https://embedenv.com/online-compiler/pytorch) | [CodeChef](https://www.codechef.com/ide) | 
+| [MyCompiler](https://www.mycompiler.io/) | [OneCompiler](https://onecompiler.com/) | [GDB](https://www.onlinegdb.com/) | [vscode](https://vscode.dev/) |
+| [TutorialsPoint](https://www.tutorialspoint.com/) | | | |
 
 *Search*
 
@@ -77,7 +85,6 @@
 | [w3schools](https://www.w3schools.com/) | [Novice Tutorial](http://runoob.com)  | [Stack Overflow](https://stackoverflow.com/) |
 | [汉语词典](https://cd.hwxnet.com/) | [剑桥词典](https://dictionary.cambridge.org/) | [柯林斯词典](https://www.collinsdictionary.com/) |
 | [术语在线](https://www.termonline.cn/) |  |  |
-
 
 *Community*
 

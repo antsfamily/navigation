@@ -9,13 +9,19 @@
 | [VideoLAN Movie Creator](https://www.videolan.org/vlmc/)   | 首页下载 |  Windows, Linux and MacOS  | 视频创建和编辑，免费  |
 
 
-## 远程协助
+## 远程运维
 
-| [RustDesk](https://rustdesk.com/) | [官方下载](https://github.com/rustdesk/rustdesk/releases/) | 开源免费,  | [手机手册](https://rustdesk.com/docs/en/client/android/)|
+| [RustDesk](https://rustdesk.com/) | [官方下载](https://github.com/rustdesk/rustdesk/releases/) | 开源免费, [源码](https://github.com/rustdesk/rustdesk/) | [手机手册](https://rustdesk.com/docs/en/client/android/)|
 | [ToDesk](https://www.todesk.com/) | [官方下载](https://www.todesk.com/download.html) | [其它下载, 密码2sre](https://wwqe.lanzouy.com/b04wajkcd) | [手机手册](https://www.todesk.com/helpcenter/solo-104.html), [Image](./ToDesk.md)|
 | [向日葵](https://sunlogin.oray.com/)  | [官方下载](https://sunlogin.oray.com/download?categ=personal) | [其它下载, 密码5nxc](https://wwqe.lanzouy.com/b04wajk5g) | [手机手册](https://service.oray.com/category/340_1.html)  |
 | [RayLink](https://www.raylink.live/)  | [官方下载](https://www.raylink.live/download.html) | [其它下载](https://www.123pan.com/s/eQ0vjv-6W413.html) | [手机手册](https://www.raylink.live/helpcenter/support-1048.html)  |
 | [AnyDesk](https://anydesk.com/)      | [官方下载](https://anydesk.com/en/downloads/android) | [其它下载, 密码8tdv](https://wwqe.lanzouy.com/b04wajkef)  | [手机手册]() |
+
+
+| [ElecTerm](https://electerm.html5beta.com)      | Windows, Linux, MacOS | 开源免费, [源码](https://github.com/electerm/electerm) | [官方下载](https://electerm.html5beta.com), [Demo](https://electerm-demo.html5beta.com/) |
+| [WindTerm](https://kingtoolbox.github.io/)      | Windows, Linux, MacOS | 开源免费, [源码](https://github.com/kingToolbox/WindTerm) | [官方下载](https://kingtoolbox.github.io/) |
+
+
 
 ## 投屏推流
 
@@ -33,6 +39,7 @@
 ## 日常办公
 
 | [Gopeed](https://www.gopeed.com/)  | Windows, Linux, MacOS, iOS, Android   | 免费开源，下载器  |  [下载](https://github.com/GopeedLab/gopeed/releases)  |
+| [Syncthing](https://syncthing.net/)  | Windows, Linux, MacOS, iOS, Android | 免费开源，下载器  |  [下载](https://syncthing.net/downloads/)  |
 | [LocalSend](https://localsend.org)  | Windows, Linux, MacOS, iOS, Android   | 免费开源，局域网互传   |  [下载](https://www.123pan.com/s/eQ0vjv-Ffx13.html)  |
 | [7-zip](https://www.7-zip.org/)  | Windows, Linux  |  压缩 解压 | [下载](https://www.123pan.com/s/eQ0vjv-Xfx13.html)  |
 | [ScreenToGif](https://www.screentogif.com/)  | Windows  |  录屏 gif 动图 | [下载](https://www.123pan.com/s/eQ0vjv-wfx13.html)  |
@@ -44,7 +51,7 @@
 | [WPS Office](https://www.wps.cn/)    |   Windows, Linux, MacOS, iOS, Android     |  doc, ppt, pdf, 部分功能免费 | [下载](https://www.wps.cn/product/)  |
 | [LibreOffice](https://www.libreoffice.org/)    |   Windows, Linux, MacOS, iOS, Android     |  doc, ppt, pdf，免费 | [下载](https://www.libreoffice.org/download/)  |
 | [Literature Management](https://blog.csdn.net/enjoyyl/article/details/46523695) |  Windows, Linux, MacOS | 对比, 推荐Citavi |   |
-| [Zotero](https://www.zotero.org/) |  Windows, Linux, MacOS  | 开源免费, [插件市场](https://github.com/syt2/zotero-addons), [plugins-en](https://www.zotero.org/support/plugins), [plugins-zh](https://plugins.zotero-chinese.com/#/), [CSL](https://www.zotero.org/styles)    | [下载](https://www.zotero.org/download/) |
+| [Zotero](https://www.zotero.org/) |  Windows, Linux, MacOS, iOS, Android  | 开源免费, [插件市场](https://github.com/syt2/zotero-addons), [plugins-en](https://www.zotero.org/support/plugins), [plugins-zh](https://plugins.zotero-chinese.com/#/), [CSL](https://www.zotero.org/styles)    | [下载](https://www.zotero.org/download/) |
 | [JabRef](https://www.jabref.org/) |  Windows, Linux, MacOS  | 开源免费    | [下载](https://www.123pan.com/s/eQ0vjv-cW413.html) |
 | [BibTexManager](https://play.google.com/store/apps/details?id=org.eu.thedoc.bibtexmanager) |  Android  |  免费   | [下载](https://www.123pan.com/s/eQ0vjv-yBx13.html) |
 | [Grammarly](https://www.grammarly.com/) |  Windows, MacOS, Android, Browser  |  免费, 语法检查   | [下载](https://www.grammarly.com/desktop) |
@@ -52,11 +59,11 @@
 | [VisualBox](https://www.cgsecurity.org/wiki/TestDisk)  | Windows, Linux, MacOS  | 虚拟机 |    |
 | [Visual Studio Code](https://code.visualstudio.com/)    |   Windows, Linux, MacOS  |  文本编辑, 代码运行调试等，[参考](https://blog.csdn.net/enjoyyl/article/details/123857521) |  [插件下载](https://www.123pan.com/s/eQ0vjv-9C413.html) |
 | [Sublime Text](http://www.sublimetext.com/)    |   Windows, Linux, MacOS  |  文本编辑, 代码运行调试等，[参考](https://iridescent.blog.csdn.net/article/details/50057491) |   |
-| [TexStudio](https://texstudio.sourceforge.net/) | Windows, Linux, MacOS   | LaTex等撰写前端工具, [开源](https://github.com/texstudio-org/texstudio)，[手册](https://texstudio-org.github.io/)  |   |
+| [TexStudio](https://texstudio.sourceforge.net/) | Windows, Linux, MacOS   | 开源免费，LaTex等撰写前端工具, [源码](https://github.com/texstudio-org/texstudio)，[手册](https://texstudio-org.github.io/)  |   |
 | [Texlive](https://tug.org/texlive)  | Windows, Linux, MacOS  | LaTex排版后端工具, [下载选择nearby那个](https://www.tug.org/texlive/acquire-iso.html)  |
 | [LaTeX-OCR](https://lukas-blecher.github.io/LaTeX-OCR/)  | Windows, Linux, MacOS  |  开源免费  |   |
 | [MarkText](https://www.marktext.cc/)  |  Windows, Linux, MacOS  | 开源免费  | [下载](https://www.123pan.com/s/eQ0vjv-Yfx13.html)    |
-| [QGIS](https://www.qgis.org/)  |  Windows, Linux, MacOS, BSD, Android  | 遥感影像查看，开源免费，[source](https://github.com/qgis/QGIS)  | [下载](https://www.qgis.org/en/site/forusers/download.html)    |
+| [QGIS](https://www.qgis.org/)  |  Windows, Linux, MacOS, BSD, Android  | 遥感影像查看，开源免费，[源码](https://github.com/qgis/QGIS)  | [下载](https://www.qgis.org/en/site/forusers/download.html)    |
 | [TestDisk](https://www.cgsecurity.org/wiki/TestDisk)  | Windows, Linux, MacOS  | 文件恢复, [使用教程](https://iridescent.blog.csdn.net/article/details/125034356)  |  [下载](https://www.123pan.com/s/eQ0vjv-dC413.html)  |
 
 
@@ -97,6 +104,7 @@
 | [百度网盘](https://pan.baidu.com/) | 需客户端，速度慢，有同步功能（流量限1G）  |
 | [MEGA](https://mega.nz/)  | 免费30G+空间  |
 | [FileStash](https://www.filestash.app/)  | 文件 |
+
 
 
 
